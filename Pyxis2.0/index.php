@@ -112,7 +112,7 @@ if (isset($_POST['inputEmail']) && isset($_POST['inputPassword'])) {
         <div class="jumbotron">
 			<img src="img/logo.png">
             <h2><strong>Employee Recognition Awards</strong></h2>
-			<p class="lead">Here at CSK Technologies, we value our hardworking employees.</p>
+			<p class="lead">Here at Pyxis, we value our hardworking employees.</p>
 			<p class="lead">Their efforts and achievements deserve recognition!</p>
         </div>
 
